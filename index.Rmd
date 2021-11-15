@@ -20,7 +20,7 @@ library(rmarkdown)
 
 #### Import Dataset
 ```{r dataset, warning=FALSE}
-int214 <- read_csv("db_int214.csv")
+int214 <- read_csv("database_int214.csv")
 ```
 
 ### 2.) Explore Data
